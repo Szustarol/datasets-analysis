@@ -13,5 +13,6 @@ The content of this folder is:
  - Car Features and MSRP - a dataset about cars, their features, and the sale price. This one contains some nice
 preprocessing for comma-separated values inside columns, the estimator resulting error was around 9k, but 
 a simple LinearSVR was used. When swapped to a Gaussian SVR the results would probably be way more interesting,
-but my main concern on this one was data preprocessing. Dataset link - https://www.kaggle.com/CooperUnion/cardataset. 
+but my main concern on this one was data preprocessing.
+Dataset link - https://www.kaggle.com/CooperUnion/cardataset. 
 Dataset author - CooperUnion.
