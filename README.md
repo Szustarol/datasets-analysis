@@ -10,7 +10,7 @@ I have split the repository into multiple subdirectories, each for one "category
 ## 1. Regression Datasets
 This folder contains some simple regression tasks as well as data preprocessing. 
 The content of this folder is:
- - Car Features and MSRP - a dataset about cars, their features, and the sale price. This one contains some nice
+ - [Car Features and MSRP](https://github.com/Szustarol/datasets-analysis/tree/master/Regression%20Datasets/Car%20Features%20and%20MSRP) - a dataset about cars, their features, and the sale price. This one contains some nice
 preprocessing for comma-separated values inside columns, the estimator resulting error was around 9k, but 
 a simple LinearSVR was used. When swapped to a Gaussian SVR the results would probably be way more interesting,
 but my main concern on this one was data preprocessing.
