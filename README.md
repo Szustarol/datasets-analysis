@@ -25,6 +25,6 @@ Dataset author - Shivam Agraval.
 ## 2. Classification Datasets
 This folder contains datasets for which the task I have estabilished was to predict a class.
 The content of this folder is:
- - [Titanic](https://github.com/Szustarol/datasets-analysis/tree/master/Classification%20Datasets/Titanic) - classic ML dataset. The goal is to predict if a passenger of Titanic survived the sinking ship. This dataset is interesting because it is relatively small. Using RandomForestClassifier i was able to achieve almost 80% accuracy, with some preprocessing, which is the top 7% on Kaggle.
+ - [Titanic](https://github.com/Szustarol/datasets-analysis/tree/master/Classification%20Datasets/Titanic) - classic ML dataset. The goal is to predict if a passenger of Titanic survived the sinking ship. This dataset is interesting because it is relatively small. Using RandomForestClassifier and some non-basic preprocessing, I was able to achieve almost 80% accuracy, which is the top 7% on Kaggle.
 Dataset link - https://www.kaggle.com/c/titanic/overview
 Dataset author - Kaggle
