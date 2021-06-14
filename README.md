@@ -28,3 +28,5 @@ The content of this folder is:
  - [Titanic](https://github.com/Szustarol/datasets-analysis/tree/master/Classification%20Datasets/Titanic) - classic ML dataset. The goal is to predict if a passenger of Titanic survived the sinking ship. This dataset is interesting because it is relatively small, so prediction is not easy. Using RandomForestClassifier and some non-basic preprocessing, I was able to achieve almost 80% accuracy, which is the top 7% on Kaggle.
 Dataset link - https://www.kaggle.com/c/titanic/overview
 Dataset author - Kaggle
+ - [Mail spam detection](https://github.com/Szustarol/datasets-analysis/tree/master/Classification%20Datasets/Spam) - classification of emails - spam or ham. This dataset was provided by Apache SpamAssassin. I have been able to achieve accuracy of 96%, with almost equal number of ham and spam examples in the dataset. The training and testing data contains both easy and hard examples from the Apache website.
+Dataset link - https://spamassassin.apache.org/old/publiccorpus/
