@@ -30,3 +30,6 @@ Dataset link - https://www.kaggle.com/c/titanic/overview
 Dataset author - Kaggle
  - [Mail spam detection](https://github.com/Szustarol/datasets-analysis/tree/master/Classification%20Datasets/Spam) - classification of emails - spam or ham. This dataset was provided by Apache SpamAssassin. I have been able to achieve accuracy of 96%, with almost equal number of ham and spam examples in the dataset. The training and testing data contains both easy and hard examples from the Apache website.
 Dataset link - https://spamassassin.apache.org/old/publiccorpus/
+ - [Mushrooms](https://github.com/Szustarol/datasets-analysis/tree/master/Classification%20Datasets/Mushrooms) - a very simple, nice to work with mushroom dataset, the target is to predict if a mushroom is edible. This dataset is really easy to fit with 100% accuracy, but what is nice about it is not a high score, but that this high score can be achieved by using a Random Forest Classifier, giving the user an insight about how different features affect edibility.
+Dataset link - https://www.kaggle.com/uciml/mushroom-classification
+Dataset author - UCI Machine Learning
