@@ -1,5 +1,5 @@
 # Datasets Analysis
-Analisis of Kaggle datasets with Python libraries like Scipy, Keras.
+Analysis of Kaggle datasets with Python libraries like Scipy, Keras.
 
 This repository is a database for most Kaggle datasets I have looked into and analysed at some point.
 The results vary. Sometimes, they are satisfying, sometimes not. My main goal was not to fit the perfect
