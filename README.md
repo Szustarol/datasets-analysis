@@ -33,3 +33,9 @@ Dataset link - https://spamassassin.apache.org/old/publiccorpus/
  - [Mushrooms](https://github.com/Szustarol/datasets-analysis/tree/master/Classification%20Datasets/Mushrooms) - a very simple, nice to work with mushroom dataset, the target is to predict if a mushroom is edible. This dataset is really easy to fit with 100% accuracy, but what is nice about it is not a high score, but that this high score can be achieved by using a Random Forest Classifier, giving the user an insight about how different features affect edibility.
 Dataset link - https://www.kaggle.com/uciml/mushroom-classification
 Dataset author - UCI Machine Learning
+
+## 3. Implementation
+This folder contains my implementation of various machine learning algorithms, and a comparison of their results on classic ML datasets.
+The content of this folder is:
+ - [Softmax for MNIST](https://github.com/Szustarol/datasets-analysis/master/Implementation/Softmax) - implementation of the Softmax Logistic Regression and a test on the MNIST
+ dataset, compared to the Sklearn version. Whith the regularized (l1/l2) implementation I was able to achieve around 90.94% accuracy, Sklearn reached 91.15% (but with a long training time), and mini-batch early-stopping implementation with learning schedule was able to achieve 91.78% accuracy.
