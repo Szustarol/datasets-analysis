@@ -33,6 +33,7 @@ Dataset link - https://spamassassin.apache.org/old/publiccorpus/
  - [Mushrooms](https://github.com/Szustarol/datasets-analysis/tree/master/Classification%20Datasets/Mushrooms) - a very simple, nice to work with mushroom dataset, the target is to predict if a mushroom is edible. This dataset is really easy to fit with 100% accuracy, but what is nice about it is not a high score, but that this high score can be achieved by using a Random Forest Classifier, giving the user an insight about how different features affect edibility.
 Dataset link - https://www.kaggle.com/uciml/mushroom-classification
 Dataset author - UCI Machine Learning
+ - [CIFAR10](https://github.com/Szustarol/datasets-analysis/tree/master/Classification%20Datasets/CIFAR10) - another very simple testing on the CIFAR10 dataset - trying to determine how well can a non-recursive, non-convolutional network fit it. The score was around 52%, which is of course not good, but in pair with other tests on this dataset, performed by other people. This demonstrates the lack of variance in the standard dense neural networks when it comes to this kind of task.
 
 ## 3. Implementation
 This folder contains my implementation of various machine learning algorithms, and a comparison of their results on classic ML datasets.
