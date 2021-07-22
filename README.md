@@ -34,6 +34,7 @@ Dataset link - https://spamassassin.apache.org/old/publiccorpus/
 Dataset link - https://www.kaggle.com/uciml/mushroom-classification
 Dataset author - UCI Machine Learning
  - [CIFAR10](https://github.com/Szustarol/datasets-analysis/tree/master/Classification%20Datasets/CIFAR10) - another very simple testing on the CIFAR10 dataset - trying to determine how well can a non-recursive, non-convolutional network fit it. The score was around 52%, which is of course not good, but in pair with other tests on this dataset, performed by other people. This demonstrates the lack of variance in the standard dense neural networks when it comes to this kind of task.
+ - [Fashion MNIST](https://github.com/Szustarol/datasets-analysis/tree/master/Classification%20Datasets/Fashion%20MNIST) - trying to fit a classifier for Fashion MNIST, using Keras and Tensorflow Data API. The target of this excercise was to get familiar with the data framework, however the result accuracy is still 100%.
 
 ## 3. Implementation
 This folder contains my implementation of various machine learning algorithms, and a comparison of their results on classic ML datasets.
